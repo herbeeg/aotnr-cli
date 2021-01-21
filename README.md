@@ -28,3 +28,7 @@
 ## Use cases
 
 ## Contact
+You can email me directly or visit my personal site at the following links:
+
+Email: [admin@jonherbst.dev](mailto:admin@jonherbst.dev)<br />
+Website: [https://jonherbst.dev](https://jonherbst.dev)
