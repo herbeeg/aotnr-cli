@@ -56,7 +56,7 @@ For any urgent transfer requests, please contact me [here](mailto:admin@jonherbs
 
 By joining the *AotNR* community, you're also posting and updating a profile in our internal API. This contains no private information at all - only specific interactions within the *AotNR* community platform. Your public profile overview can be viewed here:
 
-https://dashboard.aotnr.com/profile/`<username>`
+https://dashboard.aotnr.com/profile/ + `your username`
 
 What data we hold within the *AotNR* platform can be requested at any time, by making the following request via the CLI:
 
