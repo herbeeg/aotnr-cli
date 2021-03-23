@@ -54,6 +54,16 @@ For any urgent transfer requests, please contact me [here](mailto:admin@jonherbs
 
 ## Public profile
 
+By joining the *AotNR* community, you're also posting and updating a profile in our internal API. This contains no private information at all - only specific interactions within the *AotNR* community platform. Your public profile overview can be viewed here:
+
+https://dashboard.aotnr.com/profile/`<username>`
+
+What data we hold within the *AotNR* platform can be requested at any time, by making the following request via the CLI:
+
+`aotnr request data`
+
+Alternatively, contact me [here](mailto:admin@jonherbst.dev) if you require something more tailored to your needs and we will do our best to assist you in whatever way possible.
+
 ## Contact
 
 You can email me directly or visit my personal site at the following links:
