@@ -4,6 +4,8 @@
 
 ## Getting started
 
+### Download
+
 ### Authentication
 
 ## Create a character
@@ -28,17 +30,23 @@
 
 There are seven available **Republics** to join, based on who you want to group up with and ultimately, what your favourite colour is:
 
-- Red
-- Orange
-- Yellow
-- Green
-- Blue
-- Violet
-- Purple
+- Aether Red
+- Equine Orange
+- Oolong Yellow
+- Nebula Green
+- Raptor Blue
+- Encore Violet
+- Pewter Purple
 
 While there are no entry requirements for each **Republic**, the hope is that certain types of users will gravitate towards specific ones based on their personality, as well as **Skills** and **Traits**. There is no guarantee that this will be the case and diversity within each **Republic** will always be promoted.
 
-### Joining republics
+### Joining Republics
+
+### Switching Republics
+
+Users can change which **Republic** they are assigned to every thirty days so make sure you choose wisely when you make the switch! Staying within your **Republic** is encouraged so you can build up rapport with your peers but there are occasions where, naturally, personalities don't gel together or users are looking for something different.
+
+For any urgent transfer requests, please contact me [here](mailto:admin@jonherbst.dev).
 
 ## Posting updates
 
