@@ -3,6 +3,11 @@ import click
 @click.command()
 def login():
 	answer = click.prompt('Please enter your username', type=str)
+	
+	answer = click.prompt('Please enter your password')
+	
+	if answer:
+		click.echo('Successfully logged in.')
 
 @click.command()
 def default():
