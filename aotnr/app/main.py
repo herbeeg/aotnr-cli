@@ -1,6 +1,10 @@
 import click
 
 @click.command()
+def login():
+	answer = click.prompt('Please enter your username', type=str)
+
+@click.command()
 def default():
     click.echo('Welcome to the aotnr-cli interface. Please state your purpose or use --help to guide you.')
 
