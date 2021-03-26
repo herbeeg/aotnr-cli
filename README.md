@@ -12,9 +12,25 @@
 
 ### Statistics
 
+- Strength
+- Dexterity
+- Constitution
+- Intelligence
+- Wisdom
+- Charisma
+
 ### Traits
 
+- Unbreaking Will
+- Relentless Positivity
+
 ### Skills
+
+- Vitality
+- Awareness
+- Resilience
+- Will
+- Spirit
 
 ### Feats
 
