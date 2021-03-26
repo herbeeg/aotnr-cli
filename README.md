@@ -4,7 +4,15 @@
 
 ## Getting started
 
-### Download
+A user account is required to get started with your journey within the *AotNR* community. Please view our [registration information](https://aotnr.com/overview) to find out more about the community, what we offer and the information required by us to create a user account.
+
+### User account
+
+We require the following details to get you setup within our online community:
+
+- Email address
+- Username
+- Password
 
 ### Authentication
 
